@@ -8,7 +8,7 @@
 # Hey there! :wave:
 
 <!--Introduction -->
-I'm Raudin, a __Full Stack Web/Mobile developer__, seeking to solve __real-world problems🌏__ and creating apps that help people entertain. I am passionate about __programming__ and I always seek to improve myself day by day, I do not stop learning and I seek to become a great __Full Stack developer__, that is why I am daily watching courses and reading what I can, I like to create software💻 and tools to help people and build a community. Give a🌟 to my repository if you find my project interesting, at least its star could make someone's day🙏.
+I'm Raudin, a __Full Stack Web/Mobile developer__, seeking to solve __real-world problems__ 🌏 and creating apps that help people. I am passionate about __programming__ and I always seek to improve myself day by day, I do not stop learning and I seek to become a great __Full Stack developer__, that is why I am daily watching courses and reading what I can, I like to create software 💻 and tools to help people and build a community. Give a 🌟 to my repository if you find my project interesting, at least its star could make someone's day 🙏.
 <br>
 
 <!-- Talking about me -->
