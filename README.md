@@ -14,6 +14,5 @@ I'm Raudin, a __Full Stack Web/Mobile developer__, seeking to solve __real-world
 <!-- Talking about me -->
 **About Me:**
 - You can find more information about me in my __[Portfolio](https://raudinmoreno.vercel.app)__ website.
----
 
-<img width="100%" alt="Raudin github stats" src="https://github-readme-stats.vercel.app/api?username=raudinm&show_icons=true&hide_border=true" />
+<!--<img width="100%" alt="Raudin github stats" src="https://github-readme-stats.vercel.app/api?username=raudinm&show_icons=true&hide_border=true" />. -->
